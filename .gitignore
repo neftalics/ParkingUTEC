@@ -8,3 +8,9 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+src\lib\firebase.js
+src\lib\firebaseAdmin.js
+src\lib\serviceAccountKey.json
+localhost-key.pem
+localhost.pem
